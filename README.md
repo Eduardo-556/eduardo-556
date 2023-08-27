@@ -1,9 +1,9 @@
 ### Hello World 👨🏻‍💻
 <a href="https://github.com/Eduardo-556/github-readme-stats">
- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Eduardo-556&show_icons=true&theme=shadow_red&rank_icon=github" />
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Eduardo-556&show_icons=true&theme=transparent&rank_icon=github" />
 </a>
   <a href="https://github.com/Eduardo-556/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-556&layout=compact&theme=shadow_red" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-556&layout=compact&theme=transparent" />
   </a>
 
   ##
