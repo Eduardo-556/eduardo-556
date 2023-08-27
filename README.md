@@ -1,11 +1,16 @@
-### Hello World 👨🏻‍💻
+### <div align="center">Hello World 👨🏻‍💻 </div>
+
+##
+
+<div align="center">
 <a href="https://github.com/Eduardo-556/github-readme-stats">
- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Eduardo-556&show_icons=true&theme=transparent&rank_icon=github" />
+ <img  height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Eduardo-556&show_icons=true&theme=transparent&rank_icon=github" />
 </a>
   <a href="https://github.com/Eduardo-556/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-556&layout=compact&theme=transparent" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-556&layout=compact&theme=transparent" />
   </a>
-
+</div>
+  
   ##
 
   <div align="center"  style="display: inline_block"><br>
