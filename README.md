@@ -1,36 +1,68 @@
-# Olá, eu sou Eduardo! 👋
-Sou um desenvolvedor apaixonado por criar soluções inovadoras que resolvem problemas reais. Atualmente estou focado em projetos web com tecnologias modernas.
-
-## 🔧 Tecnologias & Ferramentas
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
-![React](https://img.shields.io/badge/React-blue?logo=react)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-blueviolet?logo=tailwind-css)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express)
-
-### Ferramentas
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-
-## 📈 Minhas Estatísticas
 <div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Eduardo-556&theme=dark)](https://git.io/streak-stats)
-  
-  
-  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-556&layout=compact&theme=dark)
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+###
 
-
-## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/eduardosilvadeveloper/)
-[![Email](https://img.shields.io/badge/Email-contato.eduardo.silva.dev%40gmail.com-8A89D6?logo=mail.ru&logoColor=white)](mailto:contato.eduardo.silva.dev@gmail.com)
 <div align="center">
-⭐️ Gostou do meu perfil? Me siga e dê uma estrela nos repositórios interessantes!  
-"Transformando linhas de código em soluções que impactam vidas" 💻✨</div>
+  <a href="https://www.linkedin.com/in/eduardosilvadeveloper/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="contato.eduardo.silva.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=eduardo-556&"  />
+</div>
+
+###
+
+<h1 align="center">Bem-vindo(a) ao meu perfil no GitHub!</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+
+ Sou um **desenvolvedor full stack** apaixonado por criar aplicações web modernas com **Node.js** e **React**. Meu foco é construir soluções escaláveis e impactantes, desde APIs robustas até interfaces dinâmicas. Estou sempre aprendendo novas tecnologias e explorando formas de resolver problemas reais. Aqui no meu GitHub, você encontrará meus **projetos**, **experimentos** e **contribuições** para a comunidade. 🚀
+
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
+
+
+
